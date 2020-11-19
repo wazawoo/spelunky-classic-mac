@@ -54,7 +54,7 @@ function scrHoldItem(argument0) {
 	    {
 	        holdItem.held = true;
 	        holdItem.cost = 0;
-	        holdItem.new = false;
+	        holdItem.isNew = false;
 	        pickupItemType = itemType;
 	        whoaTimer = whoaTimerMax;
 	    }

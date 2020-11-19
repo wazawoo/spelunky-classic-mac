@@ -1211,9 +1211,9 @@ else if (holdItem == 0)
                 whoaTimer = whoaTimerMax;
                 pickupItemType = holdItem.type;
                 
-                if (holdItem.type == "Bow" and holdItem.new)
+                if (holdItem.type == "Bow" and holdItem.isNew)
                 {
-                    holdItem.new = false;
+                    holdItem.isNew = false;
                     global.arrows += 6;
                 }
                 

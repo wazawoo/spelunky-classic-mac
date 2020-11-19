@@ -2,7 +2,7 @@ action_inherited();
 active = true;
 type = "None";
 shopDesc = "";
-new = true; // set to false once player has picked up, currently just used for bow
+isNew = true; // set to false once player has picked up, currently just used for bow
 held = false;
 LEFT = 18;
 RIGHT = 19;
