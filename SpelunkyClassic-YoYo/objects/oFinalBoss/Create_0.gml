@@ -1,0 +1,2 @@
+olmecDead = false;
+doorOpen = false;
