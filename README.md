@@ -20,7 +20,7 @@
 2. Unzip
 3. Move the app into a different folder than the one you unzipped it into
 4. Attempt to open (you will get the following error), hit `OK`
-`"spelunky" can't be opened because Apple cannot check it for malicious software.`
+> "spelunky" can't be opened because Apple cannot check it for malicious software.
 5. Go to System Preferences -> Security & Privacy -> General
 6. Near the bottom, tap `Open Anyway`
 7. Enjoy!
