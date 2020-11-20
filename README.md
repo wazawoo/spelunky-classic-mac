@@ -1,4 +1,4 @@
-# Spelunky 1.1 with GameMaker Studio 2
+# Spelunky 1.1 with GameMaker Studio 2 on macOS Big Sur
 
 ## Intro
 
@@ -6,6 +6,11 @@
 * Imported it into GMS 2
 * Made a few tiny changes
 * It builds and runs!
+
+## Why?
+
+1. Learn from the source code using the latest version of GameMaker
+2. Play Spelunky 1.1 on modern macOS versions
 
 ## Goals
 
