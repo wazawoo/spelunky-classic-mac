@@ -5,7 +5,7 @@
 * Downloaded it from [here](https://yal.cc/spelunky-classic-source-for-gamemaker-studio/)
 * Imported it into GMS 2
 * Made a few tiny changes
-* It runs!
+* It builds and runs!
 
 ## Goals
 
